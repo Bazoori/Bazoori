@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Bazoori
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me Discord 
+Check Repositories
 
 <!---
 Bazoori/Bazoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
